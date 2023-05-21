@@ -1,3 +1,5 @@
+# Python sqlite3
+
 Ten kod to program napisany w języku Python, który korzysta z modułu sqlite3 do obsługi bazy danych SQLite. 
 Tworzy on prostą aplikację do zarządzania rekordami w bazie danych.
 
